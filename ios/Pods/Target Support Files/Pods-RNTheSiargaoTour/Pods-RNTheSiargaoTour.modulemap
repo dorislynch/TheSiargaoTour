@@ -1,0 +1,6 @@
+framework module Pods_RNTheSiargaoTour {
+  umbrella header "Pods-RNTheSiargaoTour-umbrella.h"
+
+  export *
+  module * { export * }
+}
